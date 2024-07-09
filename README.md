@@ -19,7 +19,7 @@ filetree
 |—— dataAddlabel.m     // add label for one analyte data  
 |—— dataselect.m       // random select the train data and predict data    
 |—— select_data.m      // function used in dataselect  
-|—— SequenceSelceted.m  // Bagged model
+|—— SequenceSelceted.m  // Bagged model  
 |—— Template.xlsx   // save the event information which was pre-identified from Clampfit
 
 
